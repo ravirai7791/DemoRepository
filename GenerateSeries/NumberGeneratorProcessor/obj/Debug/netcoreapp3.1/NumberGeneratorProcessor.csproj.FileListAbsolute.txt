@@ -1,0 +1,8 @@
+D:\Tutorial\DemoRepository\GenerateSeries\NumberGeneratorProcessor\bin\Debug\netcoreapp3.1\NumberGeneratorProcessor.deps.json
+D:\Tutorial\DemoRepository\GenerateSeries\NumberGeneratorProcessor\bin\Debug\netcoreapp3.1\NumberGeneratorProcessor.dll
+D:\Tutorial\DemoRepository\GenerateSeries\NumberGeneratorProcessor\bin\Debug\netcoreapp3.1\NumberGeneratorProcessor.pdb
+D:\Tutorial\DemoRepository\GenerateSeries\NumberGeneratorProcessor\obj\Debug\netcoreapp3.1\NumberGeneratorProcessor.csprojAssemblyReference.cache
+D:\Tutorial\DemoRepository\GenerateSeries\NumberGeneratorProcessor\obj\Debug\netcoreapp3.1\NumberGeneratorProcessor.AssemblyInfoInputs.cache
+D:\Tutorial\DemoRepository\GenerateSeries\NumberGeneratorProcessor\obj\Debug\netcoreapp3.1\NumberGeneratorProcessor.AssemblyInfo.cs
+D:\Tutorial\DemoRepository\GenerateSeries\NumberGeneratorProcessor\obj\Debug\netcoreapp3.1\NumberGeneratorProcessor.dll
+D:\Tutorial\DemoRepository\GenerateSeries\NumberGeneratorProcessor\obj\Debug\netcoreapp3.1\NumberGeneratorProcessor.pdb
